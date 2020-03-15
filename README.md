@@ -12,9 +12,9 @@ A quick overview on PHP's basics
 - Associative arrays
 - Multi-dimensional arrays
 - Array operators
-> Functions in arrays: 
->> count()
->> is_array()
->> sort()
->> ksort()
->> asort()
+- Functions in arrays: 
+>>- count()
+>>- is_array()
+>>- sort()
+>>- ksort()
+>>- asort()
