@@ -12,7 +12,7 @@ A quick overview on PHP's basics
 - Associative arrays
 - Multi-dimensional arrays
 - Array operators
-- > Functions in arrays: 
+> Functions in arrays: 
 >> count()
 >> is_array()
 >> sort()
