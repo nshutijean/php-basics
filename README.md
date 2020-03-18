@@ -19,7 +19,7 @@ A quick overview on PHP's basics
 >>- ksort()
 >>- asort()
 
--Control structures:
+- Control structures:
 >>- if
 >>- if...else
->>switch()
+>>- switch()
