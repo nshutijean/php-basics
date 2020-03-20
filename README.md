@@ -23,3 +23,9 @@ A quick overview on PHP's basics
 >>- if
 >>- if...else
 >>- switch()
+
+- Loops:
+>>- for loop
+>>- for...each loop
+>>- while loop
+>>- do...while loop
