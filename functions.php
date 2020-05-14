@@ -12,7 +12,7 @@
     
     //Numeric functions: used to format numbers, return constants, and perform mathematical computations
 
-    //is_numberic()
+    //is_numeric()
     if(is_numeric("bare")) {
         echo "true";
     } else {
